@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int T;
+    int T; //t is a variable
     cin>>T;
     while(T--){
         int a, b, ans;
